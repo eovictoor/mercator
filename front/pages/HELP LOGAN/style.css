@@ -1,0 +1,39 @@
+#div_form {
+  width: 350px;
+  margin-left: 200px;
+  float: left;
+}
+
+#div_form form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+#div_tabela {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 350px;
+  margin-right: 200px;
+  float: right;
+}
+
+#div_tabela table {
+  width: 100%;
+}
+
+#div_tabela table tr {
+  border: 1px solid;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  width: 100%;
+}
+/*# sourceMappingURL=style.css.map */
