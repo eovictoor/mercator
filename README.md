@@ -1,4 +1,4 @@
-Atenção - Extraia o arquivo 'api.zip' na mesma pasta! Pois não consegui upar a pasta.
+Atenção - Extraia o arquivo 'api.zip' na mesma pasta! Pois não consegui upar a pasta 'api' sem uma compactação.
 
 Bibliotecas utilizadas no python:
 - PySimpleGUI
